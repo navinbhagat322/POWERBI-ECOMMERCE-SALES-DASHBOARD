@@ -65,19 +65,5 @@ The data for this dashboard was derived from the provided "Orders.csv" and "Deta
 - **Data Cleaning and Transformation:**
   - Handled in Power BI using built-in transformation tools.
 
----
 
-## How to Use This Repository
-
-1. **Dataset Files:**
-   - Include the provided "Orders.csv" and "Details.csv" files in the same directory.
-
-2. **Power BI File:**
-   - Open the `.pbix` file in Power BI Desktop to explore the dashboard.
-
-3. **Modifications:**
-   - Update the dataset or visualizations as per requirements.
-
-4. **Key Outputs:**
-   - Interactive visualizations of sales trends and performance metrics.
 
